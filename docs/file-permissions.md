@@ -3,6 +3,10 @@
 ## Overview
 Linux file permissions control who can read, write, or execute files and directories. Permissions are essential for enforcing security and limiting unauthorized access.
 
+## Best Practice
+Avoid using `777` permissions unless absolutely necessary, as it grants full access to everyone.
+
+
 ## Permission Types
 Linux permissions are divided into:
 - read (`r`)
