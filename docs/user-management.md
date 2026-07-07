@@ -3,6 +3,9 @@
 ## Overview
 User management is a core Linux administration task. It involves creating, modifying, and deleting user accounts, as well as managing group membership and account permissions.
 
+## Best Practice
+Use groups to assign shared permissions instead of granting access user by user whenever possible.
+
 ## Common Commands
 
 ### Create a new user
